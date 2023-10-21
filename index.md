@@ -17,8 +17,9 @@ Here are couple of pictures from my recent trip to <em>Cartagena, Colombia!</em>
 
 ## Hobbies
 My hobbies involve collecting action figures and drawing. You can check them out at my instagram page! <br>
-[JC's instagram](https://www.instagram.com/_crazyjc/).
-
+[JC's instagram](https://www.instagram.com/_crazyjc/)
+I also love listening to music. Here is a link to my spotify playlist.
+[Spotify playlist](https://open.spotify.com/playlist/4CXUvJWg0ubdXC2MsaDM41?si=f83641d6938249a9)
 ### Header 3
 
 ```js
