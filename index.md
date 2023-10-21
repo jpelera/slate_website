@@ -29,3 +29,10 @@ I love listening to music. Here is a link to my spotify playlist.<br>
 | Eating Habits           | consumed at most 2,000 calories      | 10/20/2023   |
 
 * * *
+Thank you for taking the time to look at my website! I am excited to start my journey as a software developer here is a list of programming languages I know so far.
+<ul>
+<li>Python</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>SQL</li>
+<li>Javascript</li>
