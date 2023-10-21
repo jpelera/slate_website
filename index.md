@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome to my website!
+# Welcome to my Website!
 Hi My name is John but most of my friends call me <strong>JC</strong>. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art and travel.<br>
 Here are couple of pictures from my recent trip to <em>Cartagena, Colombia!</em> <br>
 
@@ -11,9 +11,6 @@ Here are couple of pictures from my recent trip to <em>Cartagena, Colombia!</em>
 <img src="assets/images/colombia2.JPG" alt = "first photo of colombia" width = 200px>
 
 * * *
-
-
-
 
 ## Hobbies
 My hobbies involve collecting action figures and creating art. My entire collection is valued around $20,000. Art is a way to express myself as I am an individual that doesn't speak much. You can check out photos of my collection and art at my instagram page! <br>
