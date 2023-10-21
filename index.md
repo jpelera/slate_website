@@ -4,7 +4,10 @@ layout: default
 # Welcome to my website!
 Hi My name is John but most of my friends call me JC. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art and travel.<br>
 Here are couple of my recent trip to Cartagena, Colombia! <br>
-<img src ="colombia1.jpg" alt = "First picture of colombia">
+### Large image
+
+![First picture of colombia](colombia1.jpg)
+
 [Link to another page](./another-page.html).
 
 # Header 1
@@ -93,9 +96,7 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
