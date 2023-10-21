@@ -22,7 +22,7 @@ I love listening to different genre of music. I have a particular taste with Jap
 
 | Goal/Habit        |   Notes     | Tracker |
 |:-------------|:------------------|:------|
-| Exercise     | worked out chest, shoulders, and triceps | 10/20/2023  |
+| Exercise     | worked out chest, shoulders, and triceps | 10/21/2023  |
 |Learning to code | learned how to use flexbox in html | 10/20/2023  |
 | Eating Habits           | consumed at most 2,000 calories      | 10/20/2023   |
 
