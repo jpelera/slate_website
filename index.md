@@ -5,8 +5,8 @@ layout: default
 Hi My name is John but most of my friends call me JC. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art and travel.<br>
 Here are couple of my recent trip to Cartagena, Colombia! <br>
 ### Large image
-
-![First picture of colombia](colombia1.jpg)
+![first picture of colombia](assets/images/colombia1.JPG)
+![Second picture of colombia](assets/images/colombia2.JPG)
 
 [Link to another page](./another-page.html).
 
