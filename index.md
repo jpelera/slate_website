@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome to my Website!
+# Welcome to My Website!
 Hi My name is John but most of my friends call me <strong>JC</strong>. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art and travel.<br>
 Here are couple of pictures from my recent trip to <em>Cartagena, Colombia!</em> <br>
 
