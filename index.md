@@ -2,8 +2,9 @@
 layout: default
 ---
 # Welcome to my website!
-Hi My name is John but most of my friends call me JC. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art. 
-Here are couple of my art!
+Hi My name is John but most of my friends call me JC. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art and travel.<br>
+Here are couple of my recent trip to Cartagena, Colombia! <br>
+<img src ="colombia1.jpg" alt = "First picture of colombia">
 [Link to another page](./another-page.html).
 
 # Header 1
