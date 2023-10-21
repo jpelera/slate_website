@@ -1,25 +1,23 @@
 ---
-layout: default
+# layout: default
 ---
 # Welcome to my website!
-Hi My name is John but most of my friends call me JC. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art and travel.<br>
-Here are couple of my recent trip to Cartagena, Colombia! <br>
+Hi My name is John but most of my friends call me <strong>JC</strong>. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art and travel.<br>
+Here are couple of pictures from my recent trip to <em>Cartagena, Colombia!</em> <br>
 
-![first picture of colombia](assets/images/colombia1.JPG)
+<img src="assets/images/colombia1.JPG" alt = "first photo of colombia" width = 200px>
 
-![Second picture of colombia](assets/images/colombia2.JPG)
+* * *
+<img src="assets/images/colombia2.JPG" alt = "first photo of colombia" width = 200px>
 
-[Link to another page](./another-page.html).
+* * *
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Hobbies
+My hobbies involve collecting action figures and drawing. You can check them out at my instagram page! <br>
+[JC's instagram](https://www.instagram.com/_crazyjc/).
 
 ### Header 3
 
@@ -59,64 +57,5 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
