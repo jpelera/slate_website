@@ -18,6 +18,7 @@ My hobbies involve collecting action figures and creating art. My entire collect
 I love listening to different genre of music. I have a particular taste with Japanese music that I highly recommend that you listen to. Here is a link to my spotify playlist.<br>
 [Spotify playlist](https://open.spotify.com/playlist/4CXUvJWg0ubdXC2MsaDM41?si=f83641d6938249a9)
 ## Goals
+
 I have goal for this year and here is my progress! I am sharing it here so I can be accountable. <br>
 | Goal/Habit        |   Notes     | Tracker |
 |:-------------|:------------------|:------|
