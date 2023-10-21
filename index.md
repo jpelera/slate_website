@@ -1,15 +1,10 @@
 ---
 layout: default
 ---
-# This is the beginning of my website John Pelera
-This is the second line 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+# Welcome to my website!
+Hi My name is John but most of my friends call me JC. I am freshman attending Weber State University. My degree is in Computer Science but I also like to do art. 
+Here are couple of my art!
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
