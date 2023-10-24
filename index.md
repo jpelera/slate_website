@@ -38,26 +38,25 @@ table, th, td {
 <td>Physical Fitness</td>
 <td>Work out at least 3 time a week</td>
 <td>
-<label for = "goal">Is it complete?</label><select name="up to date" id="update">
+<label for = "goal">Is it complete?</label><select name="up to date" id="update"><br>
 <option value="yes">Yes</option>
-<option value = "no">No</option> 
+<option value = "no">No</option></td>
 </select></tr>
 
 <tr>
 <td>Coding Practice</td>
 <td>Code at least 30 minutes daily</td>
-<td><label for = "goal">Is it complete?</label><select name="up to date" id="update">
+<td><label for = "goal">Is it complete?</label><select name="up to date" id="update"><br>
 <option value="yes">Yes</option>
-<option value = "no">No</option> 
+<option value = "no">No</option></td>
 </select></tr>
 <tr>
 <td>Water intake</td>
 <td>Drink at least 8 cups of water daily</td>
-<td><label for = "goal">Is it complete?</label><select name="up to date" id="update">
+<td><label for = "goal">Is it complete?</label><select name="up to date" id="update"><br>
 <option value="yes">Yes</option>
-<option value = "no">No</option> 
-</tr>
-</select>
+<option value = "no">No</option></td>
+</select></tr>
 </table>
 
 
