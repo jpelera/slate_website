@@ -42,7 +42,7 @@ table, th, td {
 <option value="yes">Yes</option>
 <option value = "no">No</option> 
 </select>
-</tr>
+
 <tr>
 <td>Coding Practice</td>
 <td>Code at least 30 minutes daily</td>
@@ -59,6 +59,7 @@ table, th, td {
 <option value = "no">No</option> 
 </select>
 </table>
+
 
 * * *
 
