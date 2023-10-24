@@ -41,22 +41,22 @@ table, th, td {
 <label for = "goal">Is it complete?</label><select name="up to date" id="update">
 <option value="yes">Yes</option>
 <option value = "no">No</option> 
-</select>
+</select></tr>
 
 <tr>
 <td>Coding Practice</td>
 <td>Code at least 30 minutes daily</td>
-<td>
-<label for = "goal">Is it complete?</label><select name="up to date" id="update">
+<td><label for = "goal">Is it complete?</label><select name="up to date" id="update">
 <option value="yes">Yes</option>
 <option value = "no">No</option> 
-</select>
+</select></tr>
 <tr>
 <td>Water intake</td>
 <td>Drink at least 8 cups of water daily</td>
 <td><label for = "goal">Is it complete?</label><select name="up to date" id="update">
 <option value="yes">Yes</option>
 <option value = "no">No</option> 
+</tr>
 </select>
 </table>
 
